@@ -1,11 +1,11 @@
 # Spotify-Genre-Prediction
-Rohan Patel
+RP
  
-Nasar Issa
+NI
 
-EJ Oyazgan
+EO
 
-Steven Wong
+SW
 
  Dataset downloaded from: 
  https://www.kaggle.com/zaheenhamidani/ultimate-spotify-tracks-db#SpotifyFeatures.csv
